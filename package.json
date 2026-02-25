@@ -1,0 +1,21 @@
+{
+  "name": "slugify-tr",
+  "version": "1.0.0",
+  "description": "Türkçe karakterleri destekleyen URL slug oluşturucu",
+  "main": "index.js",
+  "bin": {
+    "slugify-tr": "./index.js"
+  },
+  "keywords": [
+    "slug",
+    "slugify",
+    "url",
+    "turkish",
+    "turkce",
+    "seo",
+    "i18n"
+  ],
+  "author": "turkcoode",
+  "license": "MIT",
+  "homepage": "https://turkcode.net"
+}
